@@ -1,0 +1,24 @@
+C:\Users\Draknor\Desktop\Project\BOOKBANK\BOOKBANK\obj\Debug\BOOKBANK.csprojAssemblyReference.cache
+C:\Users\Draknor\Desktop\Project\BOOKBANK\BOOKBANK\obj\Debug\BOOKBANK.frmBookBank.resources
+C:\Users\Draknor\Desktop\Project\BOOKBANK\BOOKBANK\obj\Debug\BOOKBANK.Properties.Resources.resources
+C:\Users\Draknor\Desktop\Project\BOOKBANK\BOOKBANK\obj\Debug\BOOKBANK.csproj.GenerateResource.cache
+C:\Users\Draknor\Desktop\Project\BOOKBANK\BOOKBANK\obj\Debug\BOOKBANK.csproj.CoreCompileInputs.cache
+C:\Users\Draknor\Desktop\Project\BOOKBANK\BOOKBANK\bin\Debug\BOOKBANK.exe.config
+C:\Users\Draknor\Desktop\Project\BOOKBANK\BOOKBANK\bin\Debug\BOOKBANK.exe
+C:\Users\Draknor\Desktop\Project\BOOKBANK\BOOKBANK\bin\Debug\BOOKBANK.pdb
+C:\Users\Draknor\Desktop\Project\BOOKBANK\BOOKBANK\obj\Debug\BOOKBANK.exe
+C:\Users\Draknor\Desktop\Project\BOOKBANK\BOOKBANK\obj\Debug\BOOKBANK.pdb
+C:\Users\Draknor\Desktop\Project\BOOKBANK\BOOKBANK\obj\Debug\BOOKBANK.frmAbout.resources
+C:\Users\Draknor\Desktop\Project\BOOKBANK\BOOKBANK\obj\Debug\BOOKBANK.frmLookUpISBN.resources
+C:\Users\Draknor\Desktop\Archives\C# Projects\BookBank\BOOKBANK\BOOKBANK\bin\Debug\BOOKBANK.exe.config
+C:\Users\Draknor\Desktop\Archives\C# Projects\BookBank\BOOKBANK\BOOKBANK\bin\Debug\BOOKBANK.exe
+C:\Users\Draknor\Desktop\Archives\C# Projects\BookBank\BOOKBANK\BOOKBANK\bin\Debug\BOOKBANK.pdb
+C:\Users\Draknor\Desktop\Archives\C# Projects\BookBank\BOOKBANK\BOOKBANK\obj\Debug\BOOKBANK.csprojAssemblyReference.cache
+C:\Users\Draknor\Desktop\Archives\C# Projects\BookBank\BOOKBANK\BOOKBANK\obj\Debug\BOOKBANK.frmAbout.resources
+C:\Users\Draknor\Desktop\Archives\C# Projects\BookBank\BOOKBANK\BOOKBANK\obj\Debug\BOOKBANK.frmBookBank.resources
+C:\Users\Draknor\Desktop\Archives\C# Projects\BookBank\BOOKBANK\BOOKBANK\obj\Debug\BOOKBANK.frmLookUpISBN.resources
+C:\Users\Draknor\Desktop\Archives\C# Projects\BookBank\BOOKBANK\BOOKBANK\obj\Debug\BOOKBANK.Properties.Resources.resources
+C:\Users\Draknor\Desktop\Archives\C# Projects\BookBank\BOOKBANK\BOOKBANK\obj\Debug\BOOKBANK.csproj.GenerateResource.cache
+C:\Users\Draknor\Desktop\Archives\C# Projects\BookBank\BOOKBANK\BOOKBANK\obj\Debug\BOOKBANK.csproj.CoreCompileInputs.cache
+C:\Users\Draknor\Desktop\Archives\C# Projects\BookBank\BOOKBANK\BOOKBANK\obj\Debug\BOOKBANK.exe
+C:\Users\Draknor\Desktop\Archives\C# Projects\BookBank\BOOKBANK\BOOKBANK\obj\Debug\BOOKBANK.pdb
